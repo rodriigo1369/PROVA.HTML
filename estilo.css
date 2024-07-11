@@ -1,0 +1,27 @@
+/* 9) Todo o texto da página tem fonte Arial */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* 10) A imagem exibida na página deve ter tamanho de 100px por 100px */
+img {
+    width: 100px;
+    height: 100px;
+}
+
+/* 11) Os textos Nome, Contato e Interesses estão em negrito */
+strong {
+    font-weight: bold;
+}
+
+/* 12) O parágrafo de copyright tem texto centralizado */
+p.copyright {
+    text-align: center;
+}
+
+/* 13) O link deve ter formatação sem sublinhado e na cor #04779e */
+a {
+    text-decoration: none;
+    color: #04779e;
+}
+
