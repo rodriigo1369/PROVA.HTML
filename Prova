@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <link rel="stylesheet" href="estilo.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Perfil</title>
+    <img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBOXqkKoq-ot_WAwiUbf9SdI46ciawBl9X4DeZe7W1BABHSYubjVGHvq2wVvd36mB0DcT11bINTwgCfacr1Ea9hr4QZDrZW3ewHib9RmmMRwR1Q=w1600-h773" alt="">
+</head>
+<body>
+    <h1>Meu Perfil</h1>
+    <hr>
+    <ul>
+        <li>Nome: José da Silva</li>
+        <li>Contato: josedasilva@gmail.com</li>
+        <li>Interesses:
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Design Responsivo</li>
+            </ul>
+        </li>
+    </ul>
+</body>
+<hr>
+<p>&copy; José da Silva</p>
+</html>
